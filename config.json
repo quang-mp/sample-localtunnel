@@ -1,0 +1,16 @@
+{
+  "tunnels": [
+    {
+      "port": 4000,
+      "subdomain": "mp-api"
+    },
+    {
+      "port": 5004,
+      "subdomain": "demo-app"
+    },
+    {
+      "port": 5001,
+      "subdomain": "iframe-app"
+    }
+  ]
+}
